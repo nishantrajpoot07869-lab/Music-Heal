@@ -1,0 +1,1 @@
+print("Music Bot Starting...")
